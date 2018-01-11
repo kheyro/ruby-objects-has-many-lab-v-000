@@ -18,5 +18,6 @@ class Author
   end
 
   def author_name
+    self
   end
 end
