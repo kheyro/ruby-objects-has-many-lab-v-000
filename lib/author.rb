@@ -17,7 +17,4 @@ class Author
     @posts << post
   end
 
-  def author_name
-    self
-  end
 end
